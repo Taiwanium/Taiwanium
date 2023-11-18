@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Nathan
+### Hi there 👋 my name is Nathan. Im so cool
 
 <!--
 **Taiwanium/Taiwanium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
